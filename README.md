@@ -5,7 +5,7 @@ The BSD projects have all been known to keep their traditional sort of "style" i
 
 # Building
 
-To build this project, you must have google's repo installed. To build any sel4 based projects you must make sure your machine has the requried dependencies. Please refer to https://docs.sel4.systems/projects/buildsystem/host-dependencies.html
+To build this project, you must have google's repo installed. To build any sel4 based projects you must make sure your machine has the requried dependencies. Please refer to https://docs.sel4.systems/projects/buildsystem/host-dependencies.html. See the Python and Base Build Dependencies sections.
 
 Now, create a new directory and run repo init to download the required dependencies for this project. Remember, don't worry if repo asks who you are.
 
