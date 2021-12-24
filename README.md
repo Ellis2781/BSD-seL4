@@ -16,7 +16,7 @@ repo init -u https://github.com/Ellis2781/Sel4-BSD
 repo sync
 ```
 
-Now that we have the required dependencies, it's time to build. Now create a build directory and run the build script from the directory. 
+Now that we have the required dependencies, it's time to build. Now create a build directory and run the build script. 
 
 ```
 mkdir build
