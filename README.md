@@ -7,7 +7,7 @@ The BSD projects have all been known to keep their traditional sort of "style" i
 
 To build this project, you must have google's repo installed. To build any sel4 based projects you must make sure your machine has the requried dependencies. Please refer to https://docs.sel4.systems/projects/buildsystem/host-dependencies.html
 
-Now create a new directory and run repo init to download the required dependencies for this project. Remember, don't worry if repo asks who you are.
+Now, create a new directory and run repo init to download the required dependencies for this project. Remember, don't worry if repo asks who you are.
 
 ```
 mkdir Sel4-BSD
