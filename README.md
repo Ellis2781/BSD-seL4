@@ -1,7 +1,7 @@
 # Sel4-BSD
 An attempt at creating a bsd like environment ontop of the sel4 microkernel
 
-The BSD projects have all been known to keep their traditional sort of "style" in thier projects. This is what makes bsd an attractive option to many. The linux kernel is constantly changing and 
+The BSD projects have all been known to keep their traditional sort of "style" in thier projects. This is what makes bsd an attractive option to many. 
 
 # Building
 
