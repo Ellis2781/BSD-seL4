@@ -28,6 +28,6 @@ Obviously replace [PLATFORM] with your platform. This project is highly dependen
 
 # Future Plans
 
-- Use newer drivers (rumprun drivers are quite old)
+- Use newer drivers (rumpkernel drivers are quite old)
 - VGA and HDMI support
 - 3d and 2d graphics
