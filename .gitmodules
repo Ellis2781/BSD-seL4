@@ -12,7 +12,7 @@
 	url = https://github.com/Ellis2781/tuk
 [submodule "usr.bin/make"]
 	path = usr.bin/make
-	url = git://git.savannah.gnu.org/make
+	url = https://git.savannah.gnu.org/git/make.git
 [submodule "musllibc"]
 	path = musllibc
 	url = https://github.com/seL4/musllibc
