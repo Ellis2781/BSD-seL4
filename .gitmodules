@@ -7,9 +7,9 @@
 [submodule "usr.bin/make"]
 	path = usr.bin/make
 	url = https://git.savannah.gnu.org/git/make.git
-[submodule "musllibc"]
-	path = libc
-	url = https://github.com/seL4/musllibc
 [submodule "tools"]
 	path = tools
 	url = https://github.com/seL4/seL4_tools.git
+[submodule "musllibc"]
+	path = musllibc
+	url = https://github.com/seL4/musllibc
