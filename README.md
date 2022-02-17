@@ -10,10 +10,10 @@ The BSD projects have all been known to keep their traditional sort of style in 
 
 To build any sel4 based projects you must make sure your machine has the requried dependencies. Please refer to https://docs.sel4.systems/projects/buildsystem/host-dependencies.html. See the Python and Base Build Dependencies sections.
 
-Now, clone this directory recursively to download the external sources for this project. 
+Now, clone this directory and run init.sh to fetch external sources.
 
 ```
-git clone https://github.com/Ellis2781/Sel4-BSD --recursive
+./init.sh
 ```
 
 This will clone all of the submodules in this repo.
