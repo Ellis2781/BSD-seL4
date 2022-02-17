@@ -10,6 +10,6 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/seL4/seL4_tools.git
-[submodule "musllibc"]
-	path = musllibc
+[submodule "libc"]
+	path = libc
 	url = https://github.com/seL4/musllibc
