@@ -19,3 +19,9 @@
 [submodule "libc"]
 	path = libc
 	url = https://github.com/seL4/musllibc
+[submodule "make"]
+	path = make
+	url = https://git.savannah.gnu.org/git/make.git
+[submodule "usr.bin/--force"]
+	path = usr.bin/--force
+	url = https://git.savannah.gnu.org/git/make.git
