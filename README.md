@@ -21,6 +21,7 @@ This will clone all of the submodules in this repo.
 Now that we have the required dependencies, it's time to build. Now create a build directory and run the build script. 
 
 ```
+cd Sel4-BSD
 mkdir build
 cd build
 ../init-build.sh -DPLATFORM=[PLATFORM] -DSIMULATION=TRUE
