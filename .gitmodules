@@ -4,3 +4,6 @@
 [submodule "kernel"]
 	path = kernel
 	url = https://github.com/seL4/seL4
+[submodule "userspace/tuk"]
+	path = userspace/tuk
+	url = https://github.com/Ellis2781/tuk
