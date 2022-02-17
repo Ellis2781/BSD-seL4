@@ -7,3 +7,15 @@
 [submodule "userspace/tuk"]
 	path = userspace/tuk
 	url = https://github.com/Ellis2781/tuk
+[submodule "usr.bin/tuk"]
+	path = usr.bin/tuk
+	url = https://github.com/Ellis2781/tuk
+[submodule "usr.bin/make"]
+	path = usr.bin/make
+	url = git://git.savannah.gnu.org/make
+[submodule "musllibc"]
+	path = musllibc
+	url = https://github.com/seL4/musllibc
+[submodule "libc"]
+	path = libc
+	url = https://github.com/seL4/musllibc
