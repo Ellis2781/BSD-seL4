@@ -13,3 +13,15 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/Ellis2781/seL4_tools
+[submodule "libs/sel4runtime"]
+	path = libs/sel4runtime
+	url = https://github.com/seL4/sel4runtime
+[submodule "libs/util_libs"]
+	path = libs/util_libs
+	url = https://github.com/seL4/util_libs
+[submodule "libs/projects_libs"]
+	path = libs/projects_libs
+	url = https://github.com/seL4/projects_libs
+[submodule "libs/seL4_libs"]
+	path = libs/seL4_libs
+	url = https://github.com/seL4/seL4_libs
