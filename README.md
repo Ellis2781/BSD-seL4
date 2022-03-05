@@ -1,4 +1,4 @@
-# Sel4-BSD
+# BSD-seL4
 
 Status: In the working
 
@@ -13,7 +13,7 @@ To build any sel4 based projects you must make sure your machine has the requrie
 Now, clone this directory and run init.sh to fetch external sources.
 
 ```
-cd Sel4-BSD
+cd BSD-seL4
 ./init.sh
 ```
 
