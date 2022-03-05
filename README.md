@@ -33,7 +33,7 @@ Obviously, replace [PLATFORM] with your platform.
 
 - Use netbsd drivers
 - VGA and HDMI support
-- 3d and 2d graphics
+- 3D and 2D graphics
 - UFS file system support 
 - Some posix programs
 - USB Keyboard support
